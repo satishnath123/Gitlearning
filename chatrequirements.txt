@@ -7,3 +7,9 @@ Enter button
 Themes
 Dark mode
 Other Language option
+
+Payment Option added(This is not a must have feature)
+Send Money
+Receive Money
+Check Balance
+Self Transfer
