@@ -5,3 +5,5 @@ Emoji
 Dictionary
 Enter button
 Themes
+Dark mode
+Other Language option
