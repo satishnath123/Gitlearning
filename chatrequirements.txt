@@ -1,0 +1,7 @@
+This is chat application
+Features:
+Type option
+Emoji
+Dictionary
+Enter button
+Themes
